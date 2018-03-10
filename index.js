@@ -11,7 +11,7 @@ function setCart(c) {
 
 function addToCart(item) {
   var obj = {}
-  return (obj.push(${item}))
+  return (`obj.push(${item})`)
 }
  //return [{ item, price }, { }, { }]
  //generate random math integer for price
