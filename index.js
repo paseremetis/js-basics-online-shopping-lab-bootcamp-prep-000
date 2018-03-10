@@ -10,7 +10,6 @@ function setCart(c) {
 }
 
 function addToCart(item) {
-  var shopping = new Object ({item: 'price'})
   return cart
 }
  //return [{ item, price }, { }, { }]
