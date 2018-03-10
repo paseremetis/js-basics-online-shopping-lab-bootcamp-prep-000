@@ -10,7 +10,8 @@ function setCart(c) {
 }
 
 function addToCart(item) {
-  var obj = {}
+  var obj = {var itemName: 'name'
+              var itemPrice: priceMath.random  }
   return (`obj.push(${item})`)
 }
  //return [{ item, price }, { }, { }]
