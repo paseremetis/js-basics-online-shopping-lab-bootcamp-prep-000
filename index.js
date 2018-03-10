@@ -13,7 +13,7 @@ function addToCart(item) {
   var itemObject = {var itemName: 'name'
               var itemPrice: priceMath.random }
   for(i = 0; i < cart.length; i++){
-  return itemObject.push(`CABBAGES`)
+  return itemObject.push(`CABBAGES`);
 }
 }
  //return [{ item, price }, { }, { }]
