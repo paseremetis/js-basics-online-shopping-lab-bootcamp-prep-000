@@ -10,7 +10,7 @@ function setCart(c) {
 }
 
 function addToCart(item) {
-  var itemObject = {var itemName: 'name'
+  var itemObject = {}
               var itemPrice: priceMath.random }
   for(i = 0; i < cart.length; i++){
   return itemObject.push(`CABBAGES`);
