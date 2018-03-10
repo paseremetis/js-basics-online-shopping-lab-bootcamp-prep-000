@@ -10,8 +10,6 @@ function setCart(c) {
 }
 
 function addToCart(item) {
-  var itemObject = {}
-  return (`itemObject.push('CABBAGES')`)
 }
  //return [{ item, price }, { }, { }]
  //generate random math integer for price
