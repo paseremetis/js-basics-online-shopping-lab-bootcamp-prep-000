@@ -10,20 +10,9 @@ function setCart(c) {
 }
 
 function addToCart(item) {
-  var cart = [];
-  var obj = {`${item}`: Math.random}
-  if (cart.length = 0){
-    return (`Your shopping cart is empty.`)
-  }else{
-    let i = 0;
-    while(i < cart.length){
-    cart.push(`${obj}`);
-    i++
-  }
-  return cart
- }
+  var obj = {}
+  return (`obj.push(${item})`)
 }
-
  //return [{ item, price }, { }, { }]
  //generate random math integer for price
 //}
