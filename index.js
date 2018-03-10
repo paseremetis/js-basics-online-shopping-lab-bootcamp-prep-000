@@ -10,8 +10,7 @@ function setCart(c) {
 }
 
 function addToCart(item) {
-  var cart = [];
-  var obj = {}
+  var obj = {};
   return (`obj.push(${item})`)
 }
  //return [{ item, price }, { }, { }]
