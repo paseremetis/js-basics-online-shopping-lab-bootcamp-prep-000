@@ -11,9 +11,7 @@ function setCart(c) {
 
 function addToCart(item) {
   var itemObject = {}
-  for(i = 0; i < cart.length; i++){
   return itemObject.push(`CABBAGES`);
-}
 }
  //return [{ item, price }, { }, { }]
  //generate random math integer for price
