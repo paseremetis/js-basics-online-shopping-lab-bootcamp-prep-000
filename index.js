@@ -11,7 +11,8 @@ function setCart(c) {
 
 function addToCart(item) {
   var cart = [];
-  var obj = {`${item}`: Math.random}
+  var obj = {}
+  return item.push(`${item}`)
   var object = new Object ([value]);
   if (cart.length = 0){
     return (`Your shopping cart is empty.`)
